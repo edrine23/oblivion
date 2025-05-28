@@ -1,0 +1,8 @@
+output_dir: reports
+shodan_api_key: ''
+virustotal_api_key: ''
+twitter_api_key: ''
+default_timeout: 10
+rate_limit: 5
+ethical_use_agreed: false
+report_format: html
